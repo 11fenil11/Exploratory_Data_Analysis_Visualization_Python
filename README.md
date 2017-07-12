@@ -42,10 +42,9 @@
 - Bubble plots
 - Scatter matrix plots  
 
-** Plotly Geograhical Plotting**
+**Plotly Geograhical Plotting**
 - USA choropleth map 
 - Global choropleth map 
-
 
 **Seaborn**
 - Distribution plots (histogram, joint plot, rug plot, kde)
@@ -54,7 +53,3 @@
 - Regression plots (linear model plot, faceted linear model plot)
 - Grids (pairplot, pair grid, facet grid)
 - Customizing style and color 
-
-** Plotly & Cufflinks**  
-- 
-

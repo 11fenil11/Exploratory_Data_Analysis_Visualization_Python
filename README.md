@@ -1,6 +1,6 @@
 # Exploratory_Data_Analysis_and_Visualization_Python
 
-** Python Programming Part 1 & 2**  
+**Python Programming Part 1 & 2**  
 - Looping
 - Functions  
 - Lambda Expressions
@@ -24,7 +24,7 @@
 - Indexing and Selection    
 - Bawic operations  
 
-** Pandas**  
+**Pandas**  
 - Subsetting dataframes
 - Working with the Index
 - Missing data
@@ -33,7 +33,7 @@
 - Pivot Table
 
 ** Pandas Data Visualization**
-- hex bin  
-- kernel density estimation plot 
+- Hex bin  
+- Kernel density plot 
 
 

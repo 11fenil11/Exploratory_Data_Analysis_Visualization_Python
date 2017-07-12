@@ -1,19 +1,10 @@
-# Exploratory_Data_Analysis_and_Visualization_Python
+# Exploratory Data Analysis and Visualization in Python
 
 **Python Programming Part 1 & 2**  
 - Looping
 - Functions  
 - Lambda Expressions
 - Methods
-
-**911 Call Exploratory Data Analysis**   
-- Time Series   -
-- Heat maps  
-
-**Financial Exploratory Analysis**    
-- Pairplot  
-- Line plot  
-- Heat maps
 
 **Matplotlib Part 1 & 2**   
 - Subplots  
@@ -32,8 +23,38 @@
 - Combining dataframes (merge, join, concatenation)
 - Pivot Table
 
+**911 Call Exploratory Data Analysis**   
+- Time Series   
+- Heat maps  
+
+**Financial Exploratory Analysis**    
+- Pairplot  
+- Line plot  
+- Heat maps
+
 **Pandas Data Visualization**
 - Hex bin  
 - Kernel density plot 
 
+**Ploty & Cufflinks** 
+- 3D surface plots  
+- Spread plots  
+- Bubble plots
+- Scatter matrix plots  
+
+** Plotly Geograhical Plotting**
+- USA choropleth map 
+- Global choropleth map 
+
+
+**Seaborn**
+- Distribution plots (histogram, joint plot, rug plot, kde)
+- Categorical plots (bar plot, count plot, box plot, violin plot, strip plot, swarm plot, factorplot))
+- Matrix plots (heat maps, cluster maps)
+- Regression plots (linear model plot, faceted linear model plot)
+- Grids (pairplot, pair grid, facet grid)
+- Customizing style and color 
+
+** Plotly & Cufflinks**  
+- 
 

@@ -32,7 +32,7 @@
 - Combining dataframes (merge, join, concatenation)
 - Pivot Table
 
-** Pandas Data Visualization**
+**Pandas Data Visualization**
 - Hex bin  
 - Kernel density plot 
 

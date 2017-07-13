@@ -32,9 +32,13 @@
 - Line plot  
 - Heat maps
 
-** Python A-Z Internet Users Exploratory Analysis**
+**Python A-Z Internet Users Exploratory Analysis**
 - Subsetting  
 - Filtering
+
+**Python A-Z Internet Users Data Visualization**
+- Seaborn plots  
+- Keyword Arguments in Python
 
 **Pandas Data Visualization**
 - Hex bin  

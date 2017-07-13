@@ -13,7 +13,7 @@
 **Numpy**   
 - Creating arrays    
 - Indexing and Selection    
-- Bawic operations  
+- Basic operations  
 
 **Pandas**  
 - Subsetting dataframes
@@ -39,6 +39,13 @@
 **Python A-Z Internet Users Data Visualization**
 - Seaborn plots  
 - Keyword Arguments in Python
+
+**Python A-Z Movie Rating Data Visualization**
+- Converting variables
+- Stacked histograms
+- KDE plot
+- Subplots
+- Building & styling dashboards
 
 **Pandas Data Visualization**
 - Hex bin  

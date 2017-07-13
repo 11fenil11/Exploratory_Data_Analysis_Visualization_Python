@@ -32,6 +32,10 @@
 - Line plot  
 - Heat maps
 
+** Python A-Z Internet Users Exploratory Analysis**
+- Subsetting  
+- Filtering
+
 **Pandas Data Visualization**
 - Hex bin  
 - Kernel density plot 

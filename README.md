@@ -24,13 +24,13 @@
 - Pivot Table
 
 **911 Call Exploratory Data Analysis**   
-- Time Series   
-- Heat maps  
+- Time Series study with seaborn   
+- Heat maps with seaborn 
 
 **Financial Exploratory Analysis**    
-- Pairplot  
-- Line plot  
-- Heat maps
+- Pairplot with seaborn 
+- Moving average line plot
+- Heat maps with seaborn
 
 **Python A-Z Internet Users Exploratory Analysis**
 - Subsetting  
@@ -43,7 +43,7 @@
 **Python A-Z Movie Rating Data Visualization**
 - Converting variables
 - Stacked histograms
-- KDE plot
+- KDE plot with seaborn
 - Subplots
 - Building & styling dashboards
 

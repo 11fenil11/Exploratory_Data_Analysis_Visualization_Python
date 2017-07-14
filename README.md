@@ -32,6 +32,10 @@
 - Moving average line plot
 - Heat maps with seaborn
 
+**Python A-Z Profit Analysis**  
+- For loops  
+- Round function  
+
 **Country Birth Rate Exploratory Analysis**  
 - Creating dataframes  
 - Merging dataframes

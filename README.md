@@ -32,6 +32,11 @@
 - Moving average line plot
 - Heat maps with seaborn
 
+**Country Birth Rate Exploratory Analysis**  
+- Creating dataframes  
+- Merging dataframes
+- Scatterplots with seaborn
+
 **Python A-Z Internet Users Exploratory Analysis**
 - Subsetting  
 - Filtering

@@ -37,7 +37,7 @@
 - Merging dataframes
 - Scatterplots with seaborn
 
-** Domestic Gross Percentage Exploratory Analysis**  
+**Domestic Gross Percentage Exploratory Analysis**  
 - Filtering using isin function  
 - Box plot with jitter
 

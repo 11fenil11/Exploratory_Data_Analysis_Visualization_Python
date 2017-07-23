@@ -53,6 +53,11 @@
 - Subsetting  
 - Filtering
 
+**Melbourne Housing Exploratory Analysis**  
+- Re-ordering columns
+- Identifying missing data  
+- Converting variable types
+
 **Python A-Z Internet Users Data Visualization**
 - Seaborn plots  
 - Keyword Arguments in Python

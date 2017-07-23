@@ -10,7 +10,7 @@
 - Subplots  
 - Customizing plot appearance
 
-**NumPy and Pandas for 1D and 1D Data** 
+**NumPy and Pandas for 1D and 2D Data** 
 - Similarities & differences  
 - Pearson's r function
 

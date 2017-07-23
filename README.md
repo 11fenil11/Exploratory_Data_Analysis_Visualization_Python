@@ -10,6 +10,10 @@
 - Subplots  
 - Customizing plot appearance
 
+**NumPy and Pandas for 1D and 1D Data** 
+- Similarities & differences  
+- Pearson's r function
+
 **Numpy**   
 - Creating arrays    
 - Indexing and Selection    

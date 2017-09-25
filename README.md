@@ -10,6 +10,11 @@
 - Subplots  
 - Customizing plot appearance
 
+**FiveThirtyEight Visualizations with Matplotlib**
+- Customizing tick marks and axes
+- Adding titles and subtitles
+- Adding a signature bar
+
 **NumPy and Pandas for 1D and 2D Data** 
 - Similarities & differences  
 - Pearson's r function

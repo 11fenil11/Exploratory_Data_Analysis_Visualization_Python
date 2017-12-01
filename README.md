@@ -10,6 +10,18 @@
 - Subplots  
 - Customizing plot appearance
 
+**Matplotlib - Basics**  
+- Multiplots
+- Subplots
+- Setting colors
+
+**Matplotlib Advanced**
+- Log scale
+- Text annotation
+- Axis grid
+- Twin axis
+- 3D figures
+
 **FiveThirtyEight Visualizations with Matplotlib**
 - Customizing tick marks and axes
 - Adding titles and subtitles
@@ -63,6 +75,9 @@
 - Identifying missing data  
 - Converting variable types
 
+**SF Salaries Exploratory Analysis**
+
+
 **Python A-Z Internet Users Data Visualization**
 - Seaborn plots  
 - Keyword Arguments in Python
@@ -78,6 +93,11 @@
 - Hex bin  
 - Kernel density plot 
 
+**Pandas Data Visualization Part 2**
+- Area maps
+
+**Pandas Built-In Data Visualization**  
+
 **Ploty & Cufflinks** 
 - 3D surface plots  
 - Spread plots  
@@ -88,6 +108,8 @@
 - USA choropleth map 
 - Global choropleth map 
 
+**Plotly Choropleth Maps**
+
 **Seaborn**
 - Distribution plots (histogram, joint plot, rug plot, kde)
 - Categorical plots (bar plot, count plot, box plot, violin plot, strip plot, swarm plot, factorplot))
@@ -95,3 +117,13 @@
 - Regression plots (linear model plot, faceted linear model plot)
 - Grids (pairplot, pair grid, facet grid)
 - Customizing style and color 
+
+**Seaborn Plots**
+- Categorical Plots
+- Distribution Plots
+- Seaborn Matrix Plots
+- Seaborn Regression Plots
+- Seaborn Style and Color
+
+**SciPy**
+

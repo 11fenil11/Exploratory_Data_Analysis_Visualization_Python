@@ -6,6 +6,8 @@
 - Lambda Expressions
 - Methods
 
+**SciPy**
+
 **Matplotlib Part 1 & 2**   
 - Subplots  
 - Customizing plot appearance
@@ -125,5 +127,4 @@
 - Seaborn Regression Plots
 - Seaborn Style and Color
 
-**SciPy**
 
